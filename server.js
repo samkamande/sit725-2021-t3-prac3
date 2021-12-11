@@ -37,4 +37,4 @@ http.listen(port,()=>{
 });
 
 //this is only needed for Cloud foundry 
-require("cf-deployment-tracker-client").track();
+//require("cf-deployment-tracker-client").track();
